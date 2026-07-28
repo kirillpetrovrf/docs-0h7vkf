@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-hzozit.salamcuan.online/sitemap.xml
